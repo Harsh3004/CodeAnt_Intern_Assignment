@@ -1,3 +1,5 @@
+**Deployed Project: https://codeantinternassignment.vercel.app/**
+
 --> CodeAnt Intern Assignment
 This repository contains the intern assignment project for CodeAnt AI. The project demonstrates various skills and techniques using modern web development tools and practices.
 
